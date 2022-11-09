@@ -1,0 +1,6 @@
+.widgets {
+    display: flex;
+    width: 340px;
+    overflow: hidden;
+    border: none;
+}
